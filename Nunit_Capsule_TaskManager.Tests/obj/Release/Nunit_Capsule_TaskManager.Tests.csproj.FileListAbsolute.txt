@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\ProjectManager\Dotnet\Nunit_Capsule_TaskManager.Tests\obj\Release\Nunit_Capsule_TaskManager.Tests.csprojResolveAssemblyReference.cache
